@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Tushar-exe/Tushar_Patle/blob/main/github-header.png?raw=true)
+![Header](./headerr.png)
 
 <h1 align="center">Hi 👋, I'm Tushar Patle</h1>
 <h3 align="center">I'm a tech enthusiast exploring the endless possibilities of software and Constantly learning and growing in the world of technology. I'm on a quest to bring ideas to life through lines of codes so Let's connect code and make a possible impact together!....✍️</h3>
